@@ -1,4 +1,4 @@
-# UI DISCORD v1
+# UI ROBLOX SCRIPT
 
 
 This is basically a file that is used for discord. I will not be responsible for your actions in the usage of it. Use it at your own risk.
